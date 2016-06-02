@@ -1,0 +1,24 @@
+
+  Testing Socket, SocketListener, and SocketSystem classes
+ ==========================================================
+
+  host machine name:           Columbia
+  IP Address of machine:       192.168.1.100
+  DNS name of machine from ip: Columbia
+
+  connecting to listener
+ ------------------------
+  remote ip is: 192.168.1.100, remote port is: 1477
+  local ip is:  192.168.1.100, local port is: 2048
+
+  sending from connector to listener
+ ------------------------------------
+  listener received: this is a message
+  listener received: and a final message
+  listener received: quit
+
+  sending from listener back to connector
+ -----------------------------------------
+  connector received: sending message back
+  connecter received: quit
+

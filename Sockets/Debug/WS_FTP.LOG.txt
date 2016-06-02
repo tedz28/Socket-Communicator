@@ -1,0 +1,3 @@
+2007.02.18 19:15 B C:\SU\CoreTechnologies\SocketsAndRemoting\code\SocketCommunicator\Sockets\Debug\BuildLog.htm --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CoreTechnologies/SocketsAndRemoting/code/SocketCommunicator/Sockets/Debug BuildLog.htm
+2007.03.26 05:38 B C:\SU\CoreTechnologies\SocketsAndRemoting\code\SocketCommunicator\Sockets\Debug\BuildLog.htm --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CoreTechnologies/SocketsAndRemoting/code/SocketCommunicator/Sockets/Debug BuildLog.htm
+2007.03.26 05:38 B C:\SU\CoreTechnologies\SocketsAndRemoting\code\SocketCommunicator\Sockets\Debug\WS_FTP.LOG --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CoreTechnologies/SocketsAndRemoting/code/SocketCommunicator/Sockets/Debug WS_FTP.LOG
