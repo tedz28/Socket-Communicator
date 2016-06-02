@@ -1,0 +1,18 @@
+
+  Demonstrate Base64 Encoding and Decoding 
+ ==========================================
+
+  original: We're not in Kansas anymore, Toto!
+  encoded:  V2UncmUgbm90IGluIEthbnNhcyBhbnltb3JlLCBUb3RvIQ==
+  decoded:  We're not in Kansas anymore, Toto!
+
+  creating encoded string from binary file debug\Base64Encoding.exe
+
+  First fifty bytes of encoded string:
+  TVqQAAMAAAAEAAAA//8AALgAAAAAAAAAQAAAAAAAAAAAAAAAAA
+
+  writing decoded string to binary file debug\temp.exe
+
+  Use fc to demonstrate that debug\Base64Encoding.exe
+  is identical to debug\temp.exe
+

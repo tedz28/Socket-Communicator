@@ -1,0 +1,16 @@
+2004.03.25 12:17 B C:\SU\CSE687\Code\Base64Encoding\Debug\Base64Encoding.ilk --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug Base64Encoding.ilk
+2004.03.25 12:17 B C:\SU\CSE687\Code\Base64Encoding\Debug\BuildLog.htm --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug BuildLog.htm
+2004.04.20 10:22 B C:\SU\CSE687\Code\Base64Encoding\Debug\Base64Encoding.ilk --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug Base64Encoding.ilk
+2004.04.20 10:22 B C:\SU\CSE687\Code\Base64Encoding\Debug\BuildLog.htm --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug BuildLog.htm
+2004.04.20 10:22 B C:\SU\CSE687\Code\Base64Encoding\Debug\temp.exe --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug temp.exe
+2004.04.20 10:22 B C:\SU\CSE687\Code\Base64Encoding\Debug\WS_FTP.LOG --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug WS_FTP.LOG
+2004.04.20 10:41 B C:\SU\CSE687\Code\Base64Encoding\Debug\Base64Encoding.ilk --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug Base64Encoding.ilk
+2004.04.20 10:41 B C:\SU\CSE687\Code\Base64Encoding\Debug\BuildLog.htm --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug BuildLog.htm
+2004.04.20 10:42 B C:\SU\CSE687\Code\Base64Encoding\Debug\temp.exe --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug temp.exe
+2004.04.20 10:42 B C:\SU\CSE687\Code\Base64Encoding\Debug\WS_FTP.LOG --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug WS_FTP.LOG
+2004.04.20 17:13 B C:\SU\CSE687\Code\Base64Encoding\Debug\Base64Encoding.ilk --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug Base64Encoding.ilk
+2004.04.20 17:13 B C:\SU\CSE687\Code\Base64Encoding\Debug\BuildLog.htm --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug BuildLog.htm
+2004.04.20 17:13 B C:\SU\CSE687\Code\Base64Encoding\Debug\WS_FTP.LOG --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE687/code/Base64Encoding/Debug WS_FTP.LOG
+2004.04.20 17:14 B C:\SU\CSE687\Code\Base64Encoding\Debug\Base64Encoding.ilk --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE775/code/Base64Encoding/Debug Base64Encoding.ilk
+2004.04.20 17:14 B C:\SU\CSE687\Code\Base64Encoding\Debug\BuildLog.htm --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE775/code/Base64Encoding/Debug BuildLog.htm
+2004.04.20 17:14 B C:\SU\CSE687\Code\Base64Encoding\Debug\WS_FTP.LOG --> ftp.ecs.syr.edu /faculty/fawcett/handouts/CSE775/code/Base64Encoding/Debug WS_FTP.LOG
